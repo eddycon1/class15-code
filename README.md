@@ -1,2 +1,2 @@
-# class15-code
-Some first Swing examples
+# class10-code
+Simple Swing examples
